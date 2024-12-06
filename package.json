@@ -1,0 +1,9 @@
+{
+  "name": "drive-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
